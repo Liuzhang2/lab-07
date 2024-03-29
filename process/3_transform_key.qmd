@@ -345,7 +345,7 @@ sotu_tbl |>
 
 Many, actually most, word tokens do not have a sentiment classification in the `bing` lexicon. This is not surprising because many words will not: (1) be in the lexicon and (2) have a sentiment classification by the very nature of the token (*e.g.* 'the', 'and', 'of', etc.). We will need to decide how to handle these words in the analysis. For now, we will keep them in the dataset.
 
-Finally, let's write this dataset and create a data dictionary for the dataset. The data dictionary will be useful for future reference and for sharing the dataset with others.
+Finally, let's write this dataset and create a data dictionary for the dataset. The data dictionary will be useful for future reference and for sharing the dataset with others.The last process is also the key to the whole project.
 
 ```{r}
 #| label: sentiment-write-data
@@ -394,3 +394,16 @@ You usually will add the data files to the `.gitignore` file manually. However, 
 cat("../data/derived/sotu_sentiment.csv", file = "../.gitignore", append = TRUE)
 ```
 
+
+### self-assessment
+
+- Through this exercise, I learn some in several areas:
+
+  - R Programming: Understanding of syntax and functions in R, especially packages like dplyr, ggplot2, and tidytext.
+  - Data Wrangling: Ability to clean and manipulate data to prepare it for analysis.
+  - EDA and Visualization: Skills in exploring data and presenting findings through visualizations.
+  - Text Analysis: Knowledge of text processing and sentiment analysis techniques.
+  - Reproducibility: Practices in documenting analysis and ensuring that results can be reproduced by others.
+
+- The most challenging
+ In Chinese, there is an idiom "不明觉厉” that means even I don't understand the coding but it's so cool in my eyes. the most challenging to me is to understand why I do these steps, how can I know these steps or codes well. could my brain give me a chance to walk close these cool things. However,It's so frustrated to learn something new and strange at my age. 
