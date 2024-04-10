@@ -79,7 +79,6 @@ Some questions to consider:
 
 - Provide a link to your GitHub repository
 
-
 ## State of the Union Addresses (SOTU) dataset
 
 The State of the Union Addresses (SOTU) dataset is a curated dataset of the State of the Union Addresses from 1790 to 2019. The dataset is available in the `quanteda.corpora` package. Install the package before continuing.

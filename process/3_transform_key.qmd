@@ -399,11 +399,21 @@ cat("../data/derived/sotu_sentiment.csv", file = "../.gitignore", append = TRUE)
 
 - Through this exercise, I learn some in several areas:
 
+<!--
+Excellent job. Thank you for being so detailed!
+-->
+
   - R Programming: Understanding of syntax and functions in R, especially packages like dplyr, ggplot2, and tidytext.
   - Data Wrangling: Ability to clean and manipulate data to prepare it for analysis.
   - EDA and Visualization: Skills in exploring data and presenting findings through visualizations.
   - Text Analysis: Knowledge of text processing and sentiment analysis techniques.
   - Reproducibility: Practices in documenting analysis and ensuring that results can be reproduced by others.
 
-- The most challenging
- In Chinese, there is an idiom "不明觉厉” that means even I don't understand the coding but it's so cool in my eyes. the most challenging to me is to understand why I do these steps, how can I know these steps or codes well. could my brain give me a chance to walk close these cool things. However,It's so frustrated to learn something new and strange at my age. 
+- The most challenging\
+
+<!--
+This is a very interesting insight. I too remember feeling overwhelmed but very much intrigued by coding. I think the interest itself will help you overcome the challenges. And as you continue to use R and other programming languages, you will find that you will become even more intrigued, and confident, in your abilities and what you can achieve with coding. Keep at it!
+-->
+
+
+In Chinese, there is an idiom "不明觉厉” that means even I don't understand the coding but it's so cool in my eyes. the most challenging to me is to understand why I do these steps, how can I know these steps or codes well. could my brain give me a chance to walk close these cool things. However,It's so frustrated to learn something new and strange at my age.
